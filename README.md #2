@@ -8,3 +8,4 @@
 5) Hacer un análisis para ver si las columnas AcceptedCmp3, AcceptedCmp4, AcceptedCmp5, AcceptedCmp1, AcceptedCmp2, pueden ser todas anexadas en una sola. Teóricamente, no deberían repetirse los valores.
 6) Hacer un treegraph con todas las columnas del punto 5, en caso de que sea posible.
   6b) Hacer un pairplot y/o heatmap de las mismas columnas
+7) Utilzar el siguiente código para comprobar y sumar valores faltantes: df.isna().sum()
