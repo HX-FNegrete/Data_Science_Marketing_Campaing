@@ -9,3 +9,4 @@
 6) Hacer un treegraph con todas las columnas del punto 5, en caso de que sea posible.
   6b) Hacer un pairplot y/o heatmap de las mismas columnas
 7) Utilzar el siguiente código para comprobar y sumar valores faltantes: df.isna().sum()
+8) La columna Dt_Customer tiene que ser cargada como un Datatime, ahora esta como un object
