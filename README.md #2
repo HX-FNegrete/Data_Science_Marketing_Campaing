@@ -11,3 +11,4 @@
   6c) ***Hay que poner en orden temporal las columnas, es decir, la primer campaña de marketing primero, la quinta en último lugar.
 7) ✓✓✓ Utilzar el siguiente código para comprobar y sumar valores faltantes: df.isna().sum()
 8) ✓✓✓ La columna Dt_Customer tiene que ser cargada como un Datatime, ahora esta como un object
+9) Hay que ver la correlación entre todas las campañas de marketing
