@@ -1,13 +1,13 @@
 #EDA y Wrangling que hay que hacer al dataset:
 
 1) Análisis de las columnas: revenue y costcontact
-2) Ver cuales son los valores Null/ NaN
+2) ✓✓✓ Ver cuales son los valores Null/ NaN
   2a) Ver como se pueden/ tienen que reemplazar esos valores
-3) Hacer una nueva columna que tenga la edad actual de los clientes, a partir de la columna Year_Birth
-4) Hacer una nueva columna que tenga agrupados a la cantidad total de hijos por casa, a partir de las columnas Kidhome y Teenhome
+3) ✓✓✓ Hacer una nueva columna que tenga la edad actual de los clientes, a partir de la columna Year_Birth
+4) ✓✓✓ Hacer una nueva columna que tenga agrupados a la cantidad total de hijos por casa, a partir de las columnas Kidhome y Teenhome
 5) Hacer un análisis para ver si las columnas AcceptedCmp3, AcceptedCmp4, AcceptedCmp5, AcceptedCmp1, AcceptedCmp2, pueden ser todas anexadas en una sola. Teóricamente, no deberían repetirse los valores.
 6) Hacer un treegraph con todas las columnas del punto 5, en caso de que sea posible.
   6b) Hacer un pairplot y/o heatmap de las mismas columnas
   6c) ***Hay que poner en orden temporal las columnas, es decir, la primer campaña de marketing primero, la quinta en último lugar.
-7) Utilzar el siguiente código para comprobar y sumar valores faltantes: df.isna().sum()
-8) La columna Dt_Customer tiene que ser cargada como un Datatime, ahora esta como un object
+7) ✓✓✓ Utilzar el siguiente código para comprobar y sumar valores faltantes: df.isna().sum()
+8) ✓✓✓ La columna Dt_Customer tiene que ser cargada como un Datatime, ahora esta como un object
