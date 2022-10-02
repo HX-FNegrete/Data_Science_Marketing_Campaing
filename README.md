@@ -1,4 +1,4 @@
-# Marketing Campaing 23050
+# Data Science: Marketing Campaing 
 ## Coder House Data Science final project  
  
 ![Marketing.jpg](https://wallpaperaccess.com/full/6511477.png)
